@@ -1,6 +1,6 @@
 # SheTheForce-Hackathon
 
-Team name: 
+Team name: Global Stewards
 
 Team mentor:
 * Dr. Varada Madge
